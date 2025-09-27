@@ -50,7 +50,7 @@ int main() {
     for (int i = 0; i < n; i++) degree[i] = adj[i].size();
 
     vector<char> isJunction(n, 0);
-    for (int i = 0; i < n; i++) if (i == 0 || i == n - 1 || degree[i] != 2) isJunction[i] = 1;
+    for (int i = 0; i < n; i++) if (i == 0 || i == n - 1 || degree[i] > 2) isJunction[i] = 1;
 
     vector<char> usedEdge(m, 0);
     map<unsigned long long, ld> invParallel;
@@ -160,3 +160,4 @@ int main() {
     cout << fixed << setprecision(10) << (double) voltageAtQuery << endl;
     return 0;
 }
+
