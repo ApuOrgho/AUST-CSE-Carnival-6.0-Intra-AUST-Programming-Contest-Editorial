@@ -1,5 +1,5 @@
 /*
- * Sol Author: Swapnil Sharma
+ * Author    : Swapnil Sharma
  * Problem   : Series-Parallel Voltage Calculator
  * Created on: 27-09-2025
  */
@@ -166,3 +166,4 @@ int main() {
 
     return 0;
 }
+
