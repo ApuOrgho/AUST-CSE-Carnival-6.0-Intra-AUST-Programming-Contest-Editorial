@@ -1,6 +1,6 @@
 # 🧠 AUST CSE Carnival 6.0 – Intra AUST Programming Contest Editorial
 
-This repository contains the **official editorial** for the **AUST CSE Carnival 6.0 Intra AUST Programming Contest**, held on **September 28, 2025**.  
+This repository contains the **official editorial** for the **AUST CSE Carnival 6.0 Intra AUST Programming Contest**.  
 It includes detailed explanations, solution approaches, time complexity analyses, and direct links to the solution codes for all problems from **A to L**.
 
 ---
